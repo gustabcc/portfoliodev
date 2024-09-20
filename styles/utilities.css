@@ -1,0 +1,30 @@
+.tt-lg {
+  font: var(--title-lg);
+}
+
+.tt-md {
+  font: var(--title-md);
+}
+
+.tt-sm {
+  font: var(--title-sm);
+  font-weight: bold;
+}
+
+.sbt-default {
+  font: var(--subtitle);
+  color: var(--gray-500);
+}
+
+.sbt-red {
+  font: var(--subtitle);
+  color: var(--red);
+}
+
+.tx-md {
+  font: var(--text-md);
+}
+
+.tx-sm {
+  font: var(--text-sm);
+}
